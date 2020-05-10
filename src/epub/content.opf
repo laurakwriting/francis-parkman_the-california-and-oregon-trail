@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/francis-parkman/the-california-and-oregon-trail</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/francis-parkman/the-oregon-trail</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -27,14 +27,14 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The California and Oregon Trail</dc:title>
-		<meta property="file-as" refines="#title">California and Oregon Trail, The</meta>
+		<dc:title id="title">The Oregon Trail</dc:title>
+		<meta property="file-as" refines="#title">Oregon Trail, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">Being Sketches of Prairie and Rocky Mountain Life</dc:title>
-		<meta property="file-as" refines="#subtitle">Being Sketches of Prairie and Rocky Mountain Life</meta>
+		<dc:title id="subtitle">Sketches of Prairie and Rocky Mountain Life</dc:title>
+		<meta property="file-as" refines="#subtitle">Sketches of Prairie and Rocky-Mountain Life</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">The California and Oregon Trail: Being Sketches of Prairie and Rocky Mountain Life</dc:title>
-		<meta property="file-as" refines="#fulltitle">California and Oregon Trail, The</meta>
+		<dc:title id="fulltitle">The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life</dc:title>
+		<meta property="file-as" refines="#fulltitle">Oregon Trail, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:title id="title-short">The Oregon Trail</dc:title>
 		<meta property="title-type" refines="#title-short">short</meta>
@@ -62,16 +62,16 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Autobiography</meta>
-		<dc:description id="description">The California and Oregon Trail is a collection of journal entries and pencil sketches recorded by Scottish-American naturalist John Muir during the summer of 1869, when he accompanied several men and a flock of sheep to the high country that surrounds the headwaters of the Merced and Tuoloumne rivers.</dc:description>
+		<dc:description id="description">The Oregon Trail ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus ultricies tristique nulla aliquet enim tortor at. Fermentum leo vel orci porta non pulvinar neque. Amet est placerat in egestas erat.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the summer of 1869, Scottish-American naturalist and author John Muir spent the months of June through September in the Sierra Nevada Mountains of California accompanying a group of men while they looked after a flock of sheep. During that time, Muir explored the region extensively—hiking, camping, writing, and sketching. Muir’s diary entries describing the land, flora, and fauna he encountered became the basis for the book &lt;i&gt;My First Summer in the Sierra&lt;/i&gt;, first published in 1911.&lt;/p&gt;
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus ultricies tristique nulla aliquet enim tortor at. Fermentum leo vel orci porta non pulvinar neque. Amet est placerat in egestas erat. Volutpat sed cras ornare arcu. Quisque sagittis purus sit amet volutpat. Nullam non nisi est sit. Accumsan in nisl nisi scelerisque eu. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Ultricies lacus sed turpis tincidunt id. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Enim eu turpis egestas pretium aenean pharetra magna ac. Dis parturient montes nascetur ridiculus. Euismod elementum nisi quis eleifend quam. Ac tincidunt vitae semper quis lectus nulla at volutpat. Vitae suscipit tellus mauris a. Euismod lacinia at quis risus sed vulputate odio ut. At urna condimentum mattis pellentesque id nibh tortor id. In dictum non consectetur a erat nam at lectus. Sed libero enim sed faucibus turpis in eu.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1015</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_California_and_Oregon_Trail</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/francis-parkman_the-california-and-oregon-trail</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/francis-parkman_the-oregon-trail</meta>
 		<dc:creator id="author">Francis Parkman</dc:creator>
 		<meta property="file-as" refines="#author">Parkman, Francis</meta>
 		<meta property="se:name.person.full-name" refines="#author">Francis Parkman Jr.</meta>
@@ -79,6 +79,12 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80039370</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="editor">Harry G. Paul</dc:contributor>
+		<meta property="file-as" refines="#editor">Paul, Harry G.</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Thomas Gainsborough</dc:contributor>
 		<meta property="file-as" refines="#artist">Gainsborough, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Gainsborough</meta>
@@ -102,7 +108,9 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/frontispiece.jpg" id="frontispiece.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/oregon-trail-map.jpg" id="oregon-trail-map.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
@@ -136,6 +144,9 @@
 		<item href="text/frontispiece.xhtml" id="frontispiece.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -143,6 +154,8 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="frontispiece.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -172,6 +185,7 @@
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
