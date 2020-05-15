@@ -6,22 +6,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-/* All epigraphs */
-[epub|type~="epigraph"]{
-	font-style: italic;
-	hyphens: none;
-}
 
-[epub|type~="epigraph"] em{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	margin-top: 1em;
-	font-style: normal;
-	font-variant: small-caps;
-}
-/* End all epigraphs */
 
 /* Poetry */
 [epub|type~="z3998:poem"] p{
@@ -43,8 +28,4 @@ span[epub|type~="subtitle"]{
 	text-indent: 0;
 }
 
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
-}
 /* End Poetry */
