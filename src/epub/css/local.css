@@ -1,13 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
-
-
 /* Poetry */
 [epub|type~="z3998:poem"] p{
 	text-align: left;
@@ -27,5 +20,4 @@ span[epub|type~="subtitle"]{
 [epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
-
 /* End Poetry */
